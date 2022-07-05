@@ -24,6 +24,8 @@ class HomeViewController: UIViewController {
         table.register(CollectionViewTableViewCell.self, forCellReuseIdentifier: CollectionViewTableViewCell.identifier)
         return table
     }()
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
