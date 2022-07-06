@@ -21,12 +21,4 @@ struct IdVideoElement: Codable {
     let videoId: String
 }
 
-/*items =     (
-            {
-        etag = "09YTY3U_a09sR7aIKQpXJC5SuPs";
-        id =             {
-            kind = "youtube#video";
-            videoId = tqDbYqPn7Ho;
-        };
-        kind = "youtube#searchResult";
-    }, */
+
