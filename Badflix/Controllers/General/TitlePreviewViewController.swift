@@ -99,7 +99,7 @@ class TitlePreviewViewController: UIViewController {
     }
     
     
-    public func configure(with model: TitlePreviewViewModel) {
+   /* public func configure(with model: TitlePreviewViewModel) {
         titleLabel.text = model.title
         overviewLabel.text = model.titleOverview
         
@@ -108,6 +108,6 @@ class TitlePreviewViewController: UIViewController {
         }
         
         webView.load(URLRequest(url: url))
-    }
+    } */
 
 }
